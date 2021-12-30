@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "便旅",
+  "usingComponents": {
+    "home-header": "/pages/home/components/Header/Header",
+    "home-swiper": "/pages/home/components/Header/Swiper",
+    "home-icons": "/pages/home/components/Header/Icons",
+    "home-tmh": "/pages/home/components/Header/Tmh",
+    "home-activity": "/pages/home/components/Header/Activity"
+  }
+}

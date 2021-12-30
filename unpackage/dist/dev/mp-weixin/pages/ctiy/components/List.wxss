@@ -1,0 +1,64 @@
+
+.list.data-v-12d352e2 {
+	width: 100%;
+	background: #FFFFFF;
+}
+.header.data-v-12d352e2 {
+	height: 70px;
+	padding-left: 10px;
+}
+.hot.data-v-12d352e2,.now.data-v-12d352e2 {
+	color: #999999;
+	font-size: 13px;
+	padding-bottom: 10px;
+}
+.local-city.data-v-12d352e2,.item.data-v-12d352e2 {
+	float: left;
+	width: 28.5%;
+	height: 30px;
+	line-height: 30px;
+	margin-right: 3.3%;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 14px;
+	color: #333333;
+	overflow: hidden;
+	box-shadow: 0 0 5px rgba(200,200,200,1);
+}
+.iconfont.data-v-12d352e2 {
+	font-size: 14px;
+	color: #448AFF;
+}
+.item.data-v-12d352e2 {
+	margin-bottom: 15px;
+	margin-top: 5px;
+}
+.hot.data-v-12d352e2 {
+	padding-left: 10px;
+}
+.city-list.data-v-12d352e2 {
+	padding-left: 10px;
+	overflow: hidden;
+}
+.bottom-list.data-v-12d352e2 {
+	color: #333333;
+	padding-left: 20px;
+}
+.alphabet.data-v-12d352e2 {
+	height: 25px;
+	line-height: 25px;
+	padding-left: 10px;
+	margin-top: 12px;
+	margin-right: 28px;
+	font-size: 12px;
+	font-weight: 500;
+	background: #F5F5F5;
+	margin-bottom: 5px;
+}
+.bottom-item.data-v-12d352e2 {
+	line-height: 44px;
+	margin-right: 28px;
+	font-size: 14px;
+	border-bottom: 1px solid #EAEAEC;
+}
+

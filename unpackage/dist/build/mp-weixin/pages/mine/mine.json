@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mine-header": "/pages/mine/components/Header",
+    "mine-center": "/pages/mine/components/Center",
+    "mine-bottom": "/pages/mine/components/Bottom"
+  }
+}

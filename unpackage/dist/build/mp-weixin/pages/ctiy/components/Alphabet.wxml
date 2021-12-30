@@ -1,0 +1,1 @@
+<view class="all"><view class="letter">当前</view><view class="letter">热门</view><block wx:for="{{letters}}" wx:for-item="item" wx:for-index="__i0__" wx:key="*this"><view data-event-opts="{{[['tap',[['handleLetterClick',['$0'],[[['letters','',__i0__]]]]]]]}}" class="letter" bindtap="__e">{{''+item+''}}</view></block></view>

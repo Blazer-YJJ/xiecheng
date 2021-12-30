@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "glance-slide-nav-tab-bar": "/wxcomponents/glance-SlideNavTabBar/glance-SlideNavTabBar"
+  }
+}

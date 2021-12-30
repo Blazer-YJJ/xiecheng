@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "城市列表",
+  "navigationBarBackgroundColor": "#0077AA",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "city-search": "/pages/ctiy/components/Search",
+    "city-list": "/pages/ctiy/components/List",
+    "city-alphabet": "/pages/ctiy/components/Alphabet"
+  }
+}

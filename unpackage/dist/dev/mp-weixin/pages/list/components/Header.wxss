@@ -1,0 +1,41 @@
+
+.header.data-v-12042dce {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+	height: 44px;
+	background-color: #fafafc;
+}
+.search.data-v-12042dce {
+	width: 88%;
+	height: 30px;
+	line-height: 30px;
+	margin-top: 6px;
+	margin-left: 6%;
+	border-radius: 20px;
+	background-color: #DCDCDC;
+}
+.search-left.data-v-12042dce {
+	padding-left: 10px;
+	padding-right: 15px;
+	float: left;
+}
+.location.data-v-12042dce,.station.data-v-12042dce {
+	font-size: 14px;
+	color: #448aff;
+	float: left;
+}
+.search-right.data-v-12042dce {
+	line-height: 30px;
+	float: left;
+}
+.search-icon.data-v-12042dce,.desc.data-v-12042dce {
+	float: left;
+	margin-left: 5px;
+	font-size: 14px;
+	color: #999999;
+}
+

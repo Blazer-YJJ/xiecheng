@@ -1,0 +1,52 @@
+{
+    "pages": [
+        "pages/home/home",
+        "pages/list/list",
+        "pages/message/message",
+        "pages/mine/mine",
+        "pages/home/components/Header/Header",
+        "pages/home/components/Header/Swiper",
+        "pages/ctiy/ctiy",
+        "pages/login/login",
+        "pages/register/register"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "便旅",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#333333",
+        "selectedColor": "#1296DB",
+        "list": [
+            {
+                "pagePath": "pages/home/home",
+                "iconPath": "static/images/icon/home.png",
+                "selectedIconPath": "static/images/icon/home-hover.png",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/list/list",
+                "iconPath": "static/images/icon/yhj.png",
+                "selectedIconPath": "static/images/icon/yhj-hover.png",
+                "text": "列表"
+            },
+            {
+                "pagePath": "pages/message/message",
+                "iconPath": "static/images/icon/text.png",
+                "selectedIconPath": "static/images/icon/text-hover.png",
+                "text": "消息"
+            },
+            {
+                "pagePath": "pages/mine/mine",
+                "iconPath": "./static/images/icon/mine.png",
+                "selectedIconPath": "static/images/icon/mine-hover.png",
+                "text": "个人"
+            }
+        ]
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,1 @@
+<view class="list"><list-header vue-id="2e637200-1" city="{{city}}" bind:__l="__l"></list-header><list-nav vue-id="2e637200-2" bind:__l="__l"></list-nav><list-item vue-id="2e637200-3" itemList="{{itemList}}" bind:__l="__l"></list-item><view class="loading">{{loadingText}}</view></view>

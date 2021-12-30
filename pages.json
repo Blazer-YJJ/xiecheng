@@ -1,0 +1,125 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "便旅"
+			}
+		},
+		{
+            "path": "pages/list/list",
+            "style":                                                                                    
+            {
+                "navigationBarTitleText": "列表·活动",
+                "navigationBarBackgroundColor": "#007AFF",
+				"navigationBarTextStyle": "white",
+				"enablePullDownRefresh": true
+            }
+            
+        },
+		{
+		    "path": "pages/message/message",
+		    "style":                                                                                    
+		    {
+		        "navigationBarTitleText": "消息通知",
+				"enablePullDownRefresh": false
+		    }
+		    
+		},
+        {
+            "path": "pages/mine/mine",
+            "style":                                                                                    
+            {
+                "navigationBarTitleText": "个人中心",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+        {
+            "path": "pages/home/components/Header/Header",
+            "style":                                                                                    
+            {
+                "navigationBarTitleText": "顶部导航栏",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+        {
+            "path": "pages/home/components/Header/Swiper",
+            "style":                                                                                    
+            {
+                "navigationBarTitleText": "首页轮播图",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+        {
+            "path": "pages/ctiy/ctiy",
+            "style":                                                                                    
+            {
+                "navigationBarTitleText": "城市列表",
+				"navigationBarBackgroundColor": "#0077AA",
+				"navigationBarTextStyle": "white",
+                "enablePullDownRefresh": false
+            }
+        },
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "会员登录"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "会员注册"
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "便旅",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#333333",
+		"selectedColor": "#1296DB",
+		"list": [
+			{
+				"pagePath": "pages/home/home",
+				"iconPath": "static/images/icon/home.png",
+				"selectedIconPath": "static/images/icon/home-hover.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/list/list",
+				"iconPath": "static/images/icon/yhj.png",
+				"selectedIconPath": "static/images/icon/yhj-hover.png",
+				"text": "列表"
+			},
+			{
+				"pagePath": "pages/message/message",
+				"iconPath": "static/images/icon/text.png",
+				"selectedIconPath": "static/images/icon/text-hover.png",
+				"text": "消息"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"iconPath": "static/images/icon/mine.png",
+				"selectedIconPath": "static/images/icon/mine-hover.png",
+				"text": "个人"
+			}
+		]
+	},
+	"id": "sun-login-template",
+	"name": "阳光登录、注册、发送验证码",
+	"version": "1.0.0",
+	"description": "适用于app、h5、微信小程序登录，注册模板",
+	"keywords": [
+	    "登录",
+	    "注册",
+	    "找回密码",
+	    "验证"
+	]
+}

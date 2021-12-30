@@ -1,0 +1,120 @@
+{
+	"ret": true,
+	"data": {
+		"swiperList": [
+			{
+				"id": "0001",
+				"imgUrl": "https://images4.c-ctrip.com/target/200v14000000xeccw5B9B_D_280_280_R5.jpg"
+			},
+			{
+				"id": "0002",
+				"imgUrl": "https://images4.c-ctrip.com/target/20010w000000ks9ff1D3C_D_280_280_R5.jpg"
+			},
+			{
+				"id": "0003",
+				"imgUrl": "https://pic.c-ctrip.com/flight/fuzzy/BJS/284.jpg"
+			},
+			{
+				"id": "0004",
+				"imgUrl": "https://youimg1.c-ctrip.com/target/01033120008r4sn4pACB9_R_238_268.jpg"
+			}
+		],
+		"headerList": [
+			{
+				"id": "0001",
+				"position": "background-position:0px -415px",
+				"desc": "景点·攻略"
+			},
+			{
+				"id": "0002",
+				"position": "background-position:0px -838px",
+				"desc": "门票·玩乐"
+			},
+			{
+				"id": "0003",
+				"position": "background-position:0px -240px",
+				"desc": "美食林"
+			},
+			{
+				"id": "0004",
+				"position": "background-position:0px -480px",
+				"desc": "周边游"
+			},
+			{
+				"id": "0005",
+				"position": "background-position:0px -600px",
+				"desc": "一日游"
+			}
+		],
+		"bottomList": [
+			{
+				"id": "0001",
+				"position": "background-position:2px -90px",
+				"desc": "酒店"
+			},
+			{
+				"id": "0002",
+				"position": "background-position:2px -135px",
+				"desc": "民宿·客栈"
+			},
+			{
+				"id": "0003",
+				"position": "background-position:2px -45px",
+				"desc": "高铁"
+			},
+			{
+				"id": "0004",
+				"position": "background-position:2px -180px",
+				"desc": "机票"
+			},
+			{
+				"id": "0005",
+				"position": "background-position:2px -225px",
+				"desc": "火车票"
+			},
+			{
+				"id": "0006",
+				"position": "background-position:2px -270px",
+				"desc": "汽车·船票"
+			},
+			{
+				"id": "0007",
+				"position": "background-position:2px -310px",
+				"desc": "汽车·租车"
+			},
+			{
+				"id": "0008",
+				"position": "background-position:2px -355px",
+				"desc": "旅游"
+			},
+			{
+				"id": "0009",
+				"position": "background-position:2px -400px",
+				"desc": "高铁游"
+			},
+			{
+				"id": "0009",
+				"position": "background-position:2px -445px",
+				"desc": "定制游"
+			}
+		],
+		"activityList": [
+			{
+				"id": "001",
+				"imgUrl": "https://images4.c-ctrip.com/target/200f1b000001bojnj7CB7_D_280_280_R5.jpg"
+			},
+			{
+				"id": "002",
+				"imgUrl": "https://pic.c-ctrip.com/flight/fuzzy/BJS/284.jpg"
+			},
+			{
+				"id": "003",
+				"imgUrl": "https://images4.c-ctrip.com/target/20010w000000ks9ff1D3C_D_280_280_R5.jpg"
+			},
+			{
+				"id": "004",
+				"imgUrl": "https://images4.c-ctrip.com/target/200f1b000001bojnj7CB7_D_280_280_R5.jpg"
+			}
+		]
+	}
+}

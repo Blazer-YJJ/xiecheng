@@ -1,0 +1,15 @@
+
+.all {
+	position: fixed;
+	top: 120px;
+	right: 0;
+}
+.letter {
+	width: 28px;
+	height: 14px;
+	line-height: 14px;
+	color: #19A0F0;
+	font-size: 12px;
+	text-align: center;
+}
+

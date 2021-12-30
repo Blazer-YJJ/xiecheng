@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "列表·活动",
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "list-header": "/pages/list/components/Header",
+    "list-nav": "/pages/list/components/Nav",
+    "list-item": "/pages/list/components/Item"
+  }
+}
